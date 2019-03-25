@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-check-secure-hardware",
+  "version": "1.0.0",
+  "description": "A simple cordova plugin that generates a key on android devices and checks if the key is stored in hardware backed secure storage (Secure Element/ SE or TrustZone chip)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperFromUkraine/cordova-plugin-check-secure-hardware.git"
+  },
+  "author": {
+    "name": "Arthur Leung"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeveloperFromUkraine/cordova-plugin-check-secure-hardware/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-check-secure-hardware",
+    "platforms": [
+      "android"
+    ]
+  },
+  "homepage": "https://github.com/DeveloperFromUkraine/cordova-plugin-check-secure-hardware#readme"
+}
